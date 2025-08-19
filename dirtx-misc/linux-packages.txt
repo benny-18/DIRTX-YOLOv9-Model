@@ -1,0 +1,1 @@
+sudo apt install -y pkg-config build-essential coinor-libipopt-dev libblas-dev liblapack-dev gdal-bin libgdal-dev libgdal26 cmake libcairo2-dev pkg-config r-base python3-pip python3-wheel python3-setuptools python3-apt libapt-pkg-dev g++ 
